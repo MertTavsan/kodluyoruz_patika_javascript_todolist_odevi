@@ -1,0 +1,2 @@
+# kodluyoruz_patika_javascript_todolist_odevi
+bu yapılacaklar listesidir
